@@ -1,0 +1,15 @@
+# SQLite database files — recreated automatically on first run
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+.env/
